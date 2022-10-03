@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "Modern React With Redux",
+      "author": "Stephen Grider",
+      "id": 2
+    },
+    {
+      "title": "Modern React With Zustand",
+      "author": "E.Scott Fitzedger",
+      "id": 3
+    },
+    {
+      "title": "Chanakya's React",
+      "author": "Chanakya",
+      "id": 4
+    },
+    {
+      "title": "Modern React With Zustand",
+      "author": "E.Scott Fitzedger",
+      "id": 5
+    },
+    {
+      "title": "Modern React With Redux",
+      "author": "Stephen Grider",
+      "id": 6
+    },
+    {
+      "title": "Modern React With Zustand",
+      "author": "E.Scott Fitzedger",
+      "id": 7
+    },
+    {
+      "title": "Modern React With Redux",
+      "author": "Stephen Grider",
+      "id": 8
+    },
+    {
+      "title": "Modern React With Zustand",
+      "author": "E.Scott Fitzedger",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "chanakya yechuri 111",
+      "email": "yechurichanakya@gmail.com",
+      "imageUrl": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGVuc3xlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+      "googleId": "108584442140197773760",
+      "imageUrl": "https://lh3.googleusercontent.com/a-/ACNPEu9J9lXW3m2Klg3rnuQ9eUpIX0iGmYs5CL3t5HuYLg=s96-c",
+      "email": "yechurichanakya@gmail.com",
+      "name": "Chanakya Yechuri",
+      "givenName": "Chanakya",
+      "familyName": "Yechuri",
+      "id": "108584442140197773760"
+    }
+  ]
+}
